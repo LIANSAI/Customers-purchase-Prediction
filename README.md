@@ -1,5 +1,5 @@
 # Customers-purchase-Prediction-Competition-
-招商消费金融场景下的用户购买预测 34th 方案
+招商消费金融场景下的用户购买预测 34th 方案 线上成绩0.8603
 
 思路：
 
